@@ -2,4 +2,4 @@ def health():
     return {"status": "ok"}
 
 def get_orders():
-    return []
+    return ["order1", "order2"]
