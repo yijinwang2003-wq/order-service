@@ -1,5 +1,5 @@
 # Order Service
-
+Release version 1.0.0
 REST API service for order management.
 
 ---
